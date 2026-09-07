@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Скачать MultiDesk
+    url: https://github.com/tashev11/multidesk-app/releases
+    about: Официальные публичные сборки MultiDesk
+  - name: Купить или продлить PRO
+    url: https://multidesk.ru/pay
+    about: Страница покупки и продления лицензии
