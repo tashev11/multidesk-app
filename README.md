@@ -12,7 +12,7 @@ MultiDesk — программа для авитолога, продавца и 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?logo=windows11&logoColor=white&style=for-the-badge)](https://github.com/tashev11/multidesk-app/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-000000?logo=apple&logoColor=white&style=for-the-badge)](https://github.com/tashev11/multidesk-app/releases/latest)
 
-### [⬇️ Скачать MultiDesk](https://github.com/tashev11/multidesk-app/releases/latest) · [💳 Купить PRO](https://multidesk.ru/pay)
+### [⬇️ Скачать MultiDesk](https://github.com/tashev11/multidesk-app/releases/latest) · [🌐 Страница проекта](https://aviteka.ru/multidesk)
 
 [Возможности](#-возможности) · [Как работает](#-как-это-работает) · [Скачать](#-скачать) · [FAQ](#-частые-вопросы) · [Поддержка](SUPPORT.md)
 
@@ -105,7 +105,7 @@ MultiDesk — программа для авитолога, продавца и 
 
 <div align="center">
 
-### [💳 Купить или продлить PRO →](https://multidesk.ru/pay)
+### [🌐 Тарифы и покупка →](https://aviteka.ru/multidesk)
 
 </div>
 
@@ -184,7 +184,7 @@ MultiDesk объединяет задачи, для которых обычно 
 
 ### MultiDesk — меньше переключений, больше работы с объявлениями
 
-**[⬇️ Скачать](https://github.com/tashev11/multidesk-app/releases/latest)** · **[💳 Купить PRO](https://multidesk.ru/pay)** · **[💬 Поддержка](https://github.com/tashev11/multidesk-app/issues/new/choose)**
+**[⬇️ Скачать](https://github.com/tashev11/multidesk-app/releases/latest)** · **[🌐 Страница проекта](https://aviteka.ru/multidesk)** · **[💬 Поддержка](https://github.com/tashev11/multidesk-app/issues/new/choose)**
 
 <sub>MultiDesk — независимое программное обеспечение. Не является официальным продуктом Авито.</sub>
 
