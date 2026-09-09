@@ -1,0 +1,59 @@
+name: Ошибка
+description: Сообщить о проблеме в MultiDesk
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Не публикуйте пароли, cookies, токены, лицензионные ключи и API-ключи.
+  - type: textarea
+    id: what
+    attributes:
+      label: Что произошло
+      description: Коротко и по делу.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Ожидалось
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: ОС
+      options:
+        - Windows 10
+        - Windows 11
+        - macOS
+        - Другое
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Версия MultiDesk
+      placeholder: например 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: profiles
+    attributes:
+      label: Сколько профилей подключено
+  - type: textarea
+    id: extra
+    attributes:
+      label: Дополнительно
+      description: Скриншот или текст ошибки без секретов.

@@ -1,0 +1,39 @@
+name: Новая функция
+description: Предложить улучшение MultiDesk
+title: "[Feature] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: pain
+    attributes:
+      label: Какая задача сейчас неудобна
+      description: Реальный сценарий работы, а не название кнопки.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Что предлагаете
+    validations:
+      required: true
+  - type: dropdown
+    id: who
+    attributes:
+      label: Кто этим будет пользоваться
+      options:
+        - Продавец
+        - Авитолог
+        - Агентство
+        - Менеджер нескольких кабинетов
+        - Другое
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Какой результат нужен
+  - type: textarea
+    id: extra
+    attributes:
+      label: Дополнительно
+      description: Ссылка, схема или пример интерфейса.

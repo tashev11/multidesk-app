@@ -2,7 +2,10 @@ blank_issues_enabled: false
 contact_links:
   - name: Скачать MultiDesk
     url: https://github.com/tashev11/multidesk-app/releases
-    about: Официальные публичные сборки MultiDesk
+    about: Официальные сборки для Windows и macOS
   - name: Купить или продлить PRO
     url: https://multidesk.ru/pay
-    about: Страница покупки и продления лицензии
+    about: Оплата и продление лицензии
+  - name: Дорожная карта
+    url: https://github.com/tashev11/multidesk-app/blob/main/ROADMAP.md
+    about: Что уже в плане развития
