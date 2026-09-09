@@ -5,7 +5,7 @@
 |Задача|Ссылка|
 |---|---|
 |Скачать сборку|[Releases](https://github.com/tashev11/multidesk-app/releases)|
-|Купить / продлить PRO|[multidesk.ru/pay](https://multidesk.ru/pay)|
+|Страница проекта / тарифы|[aviteka.ru/multidesk](https://aviteka.ru/multidesk)|
 |Сообщить об ошибке|[Новый Issue](https://github.com/tashev11/multidesk-app/issues/new/choose)|
 |Предложить функцию|[Новый Issue](https://github.com/tashev11/multidesk-app/issues/new/choose)|
 
